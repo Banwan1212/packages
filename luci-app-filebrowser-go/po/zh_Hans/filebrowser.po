@@ -25,7 +25,7 @@ msgstr "启用"
 #: applications/luci-app-filebrowser/htdocs/luci-static/resources/view/filebrowser.js:48
 #: applications/luci-app-filebrowser/root/usr/share/luci/menu.d/luci-app-filebrowser.json:3
 msgid "FileBrowser"
-msgstr "FileBrowser"
+msgstr "Web文件管理"
 
 #: applications/luci-app-filebrowser/htdocs/luci-static/resources/view/filebrowser.js:49
 msgid ""
