@@ -1,5 +1,5 @@
 {
-	"admin/services/filebrowser": {
+	"admin/filebrowser/filebrowser": {
 		"title": "FileBrowser",
 		"action": {
 			"order": 30,
