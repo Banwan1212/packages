@@ -12,7 +12,6 @@ LUCI_PKGARCH:=all
 
 PKG_NAME:=luci-app-netdata
 
-
 define Build/Compile
 endef
 
